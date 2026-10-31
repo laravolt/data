@@ -1,3 +1,5 @@
+> **Archived.** Unused experiment (Astro blog template); not maintained.
+
 # AstroPaper 📄
 
 ![AstroPaper](public/astropaper-og.jpg)
